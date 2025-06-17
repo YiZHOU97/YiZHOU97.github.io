@@ -33,30 +33,30 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Hong Kong University of Science and Technology",
+      "area": "Ph.D. in Mechanical Engineering",
+      "studyType": "Full-time",
+      "startDate": "2022-09-01",
+      "endDate": "",
+      "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Hong Kong University of Science and Technology",
+      "area": "MSC. in Mechanical Engineering",
+      "studyType": "Full-time",
+      "startDate": "2021-09-01",
+      "endDate": "2022-08-31",
+      "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Huazhong University of Science and Technology",
+      "area": "B.E. in Measurement and control technology and instruments",
+      "studyType": "Full-time",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-30",
+      "gpa": 3.9,
       "courses": []
     }
   ],

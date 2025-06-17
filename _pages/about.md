@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Shuai Liu's Personal Website"
+title: "Liu Shuai's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my personal academic website! I am Shuai Liu, a PhD candidate in Mechanical Engineering at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Duan Molong](https://seng.hkust.edu.hk/about/people/faculty/molong-duan). My research focuses on robotics, specifically cable-driven parallel robots, robotic manipulation, and SLAM technologies.
+Welcome to my personal academic website! I am Liu Shuai, a PhD candidate in Mechanical Engineering at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by [Prof. Duan Molong](https://seng.hkust.edu.hk/about/people/faculty/molong-duan). My research focuses on robotics, specifically cable-driven parallel robots, robotic manipulation, and SLAM technologies.
 
 You can find my CV here: [Liu Shuai's CV](../files/LiuShuai_CV.pdf)
 

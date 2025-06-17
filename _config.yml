@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Liu Shuai / Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "LiuShuai-Neo/LiuShuai-Neo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../images/Shuai.png"
   name             : "Liu Shuai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "HKUST PhD Candidate in Mechanical Engineering"
   location         : "Hong Kong, China"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
