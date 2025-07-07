@@ -17,10 +17,12 @@ Research Interests
 ======
 My research spans several exciting areas in robotics and automation:
 
-**Cable-Driven Parallel Robots (CDPRs)**: I specialize in the modeling, control, and optimization of cable-driven parallel robots, with particular emphasis on reconfigurable systems and disturbance rejection capabilities.
+**Boom-lift-mounted Robot (BLMR)**: To advance the automation of high-altitude surface construction tasks, the boom-lift-mounted robot concept is proposed, and the effectiveness is validated through dedicated mechatronic design and a vibration suppression algorithm.
 
-**Robotic Manipulation and Control**: I work on robotic arm modeling and control, including both traditional robotic arms and bio-inspired cable-driven robotic hands. My research covers trajectory planning, system identification, multi-finger coordination control, and real-time compensation methods.
+**Bricklaying Robot**: To advance the automation of indoor construction tasks, a bricklaying robot equipped with force-position feedback control is developed and validated through simulations and experiments, demonstrating enhanced placement accuracy and bond strength in the bricklaying process.
 
-**SLAM and Mobile Robotics**: I develop enhanced localization algorithms that integrate surface feature information into LiDAR SLAM frameworks, significantly improving positioning accuracy in complex environments for mobile robotic inspection systems.
+**Multi-axis Robotic Additive Manufacturing**: A force-feedback-based closed-loop control framework and helical trajectory generation method for continuous fiber-reinforced polymer  additive manufacturing are porposed to improve printing quality in high-curvature and high-speed scenarios.
 
-**Additive Manufacturing and Automation**: I have experience in developing real-time monitoring and compensation systems for 3D printing using thermal imaging, achieving significant improvements in print quality and contour accuracy.
+**Space Construction Robots**: A space construction robot is developed to autonomously do the construction tasks on the Moon, enabling efficient and precise extraterrestrial infrastructure deployment.
+
+**Motion Planning**: Motion planning and trajectory generation for six-axis robotic arms are developed to achieve high-precision and efficient task execution in complex and dynamic environments, such as artifical potential field method, RRT-Connect, and learning-based method.
