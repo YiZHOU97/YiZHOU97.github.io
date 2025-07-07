@@ -11,32 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, Hong Kong University of Science and Technology, 2022-2026 (expected)
-* MSC. in Mechanical Engineering, Hong Kong University of Science and Technology, 2021-2022
-* B.E. in Measurement and control technology and instruments, Huazhong University of Science and Technology, 2016-2020
+* Ph.D. in Mechanical Engineering, Hong Kong University of Science and Technology, 2022-now
+* MSC. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, 2021-2022
+* B.E. in Aircraft Design and Engineering, Northwestern Polytechnical University, 2016-2020
 
-<!-- Work experience
+Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant
+  * National University of Singapore
+  * Duties included: 
+    * Realtime control system establishment 
+    * Compliant control deployment
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+* Software Engineer Internship
+  * XYZ Robotics Inc.
+  * Duties included: Motion control of industrial robots
   
 Skills
 ======
-* Python，C/C++
-* MATLAB，Simulink，Solidworks， ANSYS
-* Embedded development，Gazebo
+* Python, C++, Matlab, Simulink, PLC
+* Beckhoff TwinCAT, Solidworks, ANSYS
+* Embedded development
 
 Publications
 ======

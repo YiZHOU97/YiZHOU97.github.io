@@ -33,7 +33,7 @@
   "work": [],
   "education": [
     {
-      "institution": "Hong Kong University of Science and Technology",
+      "institution": "The Hong Kong University of Science and Technology",
       "area": "Ph.D. in Mechanical Engineering",
       "studyType": "Full-time",
       "startDate": "2022-09-01",
@@ -42,17 +42,17 @@
       "courses": []
     },
     {
-      "institution": "Hong Kong University of Science and Technology",
-      "area": "MSC. in Mechanical Engineering",
+      "institution": "The Chinese University of Hong Kong University",
+      "area": "MSC. in Mechanical and Automation Engineering",
       "studyType": "Full-time",
       "startDate": "2021-09-01",
-      "endDate": "2022-08-31",
+      "endDate": "2022-07-30",
       "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "Huazhong University of Science and Technology",
-      "area": "B.E. in Measurement and control technology and instruments",
+      "institution": "Northwestern Polytechnical University",
+      "area": "B.E. in Aircraft Design and Engineering",
       "studyType": "Full-time",
       "startDate": "2016-09-01",
       "endDate": "2020-06-30",
